@@ -2,9 +2,9 @@
 
 ## Avant-propos
 
-**Nation Branding Now** (*NBN*) is a repository of visual assets used to brand the nation-state (as well as your favourite sub-national administrative divisions!). Corporate brand management is in ascendance within the public sphere. In an interdependent world where borders and boundaries appear increasingly blurred, careful control of a cohesive jurisdictional "brand" serves to construct distinctiveness. *NBN* serves to chronicle the rapidly-evolving process through which states create, redefine, and control national identity.
+**Nation Branding Now** (*NBN*) is a repository of visual assets used to brand the nation-state (as well as your favourite sub-national administrative divisions!). Corporate brand management is in ascendance within the public sphere. In an interdependent world where borders and boundaries appear increasingly blurred, careful control of a cohesive jurisdictional "brand" serves to construct distinctiveness. *NBN* seeks to chronicle the rapidly-evolving process through which states create, redefine, and control national identity.
 
-Inside this directory, you will find a historical catalogue of brand identity strategies, logos, books, and memos issued by governments near and far, small and large, wealthy and less-so. Whether you are a social scientist wading into this exciting sub-domain of soft power, a designer looking for inspiration, or just a curious passer-by, you are cordially invited to jump in.
+Inside this directory, you will find a historical catalogue of brand identity strategies, logos, books, and memos issued by governments near and far, small and large, wealthy and less-so. Whether you are a social scientist wading into this exciting sub-domain of soft power, a designer looking for inspiration, or just a curious passer-by, you are cordially invited to take a look around.
 
 ## Browse
 
