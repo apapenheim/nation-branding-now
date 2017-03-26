@@ -1,4 +1,4 @@
-# ![Nation Branding Now](https://github.com/apapenheim/nation-branding-now/blob/master/images/nbn_logo.svg?raw=true)
+# ![Nation Branding Now](images/nbn_logo.png?raw=true)
 
 ## Avant-propos
 
