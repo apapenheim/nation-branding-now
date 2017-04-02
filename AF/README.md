@@ -6,7 +6,7 @@
 
 | Flag | Region | Flag | Region | Flag | Region |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| ![DZ](../images/FlagKit/AF/DZ/DZ@2x.png) | Algeria | ![AO](../images/FlagKit/AF/AO/AO@2x.png) | Angola | ![BJ](../images/FlagKit/AF/BJ/BJ/BJ@2x.png) | Benin |
+| ![DZ](../images/FlagKit/AF/DZ/DZ@2x.png) | Algeria | ![AO](../images/FlagKit/AF/AO/AO@2x.png) | Angola | ![BJ](../images/FlagKit/AF/BJ/BJ@2x.png) | Benin |
 | ![BW](../images/FlagKit/AF/BW/BW@2x.png) | Botswana | ![BF](../images/FlagKit/AF/BF/BF@2x.png) | Burkina Faso | ![BI](../images/FlagKit/AF/BI/BI@2x.png) | Burundi |
 | ![CM](../images/FlagKit/AF/CM/CM@2x.png) | Cameroon | ![CV](../images/FlagKit/AF/CV/CV@2x.png) | Cape Verde | ![CF](../images/FlagKit/AF/CF/CF@2x.png) | Central African Republic |
 | ![TD](../images/FlagKit/AF/TD/TD@2x.png) | Chad | ![KM](../images/FlagKit/AF/KM/KM@2x.png) | Comoros | ![CG](../images/FlagKit/AF/CG/CG@2x.png) | Congo (Republic of the) |
