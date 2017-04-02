@@ -17,9 +17,9 @@
 | ![GW](../images/FlagKit/AF/GW/GW@2x.png) | Guinea-Bissau | ![KE](../images/FlagKit/AF/KE/KE@2x.png) | Kenya | ![LS](../images/FlagKit/AF/LS/LS@2x.png) | Lesotho |
 | ![LR](../images/FlagKit/AF/LR/LR@2x.png) | Liberia | ![LY](../images/FlagKit/AF/LY/LY@2x.png) | Libya | ![MG](../images/FlagKit/AF/MG/MG@2x.png) | Madagascar |
 | ![MW](../images/FlagKit/AF/MW/MW@2x.png) | Malawi | ![ML](../images/FlagKit/AF/ML/ML@2x.png) | Mali | ![MR](../images/FlagKit/AF/MR/MR@2x.png) | Mauritania |
-| ![MU](../images/FlagKit/AF/MU/MU@2x.png) | Mauritius | ![YT](../images/FlagKit/AF/YT/YT@2x.png) | Mayotte | ![MA](../images/FlagKit/AF/MA/MA@2x.png) | Morocco |
+| ![MU](../images/FlagKit/AF/MU/MU@2x.png) | Mauritius | ![YT](../images/FlagKit/AF/YT/YT@2x-alt.png) | Mayotte | ![MA](../images/FlagKit/AF/MA/MA@2x.png) | Morocco |
 | ![MZ](../images/FlagKit/AF/MZ/MZ@2x.png) | Mozambique | ![NA](../images/FlagKit/AF/NA/NA@2x.png) | Namibia | ![NE](../images/FlagKit/AF/NE/NE@2x.png) | Niger (the) |
-| ![NG](../images/FlagKit/AF/NG/NG@2x.png) | Nigeria | ![RE](../images/FlagKit/AF/RE/RE@2x.png) | Réunion | ![RW](../images/FlagKit/AF/RW/RW@2x.png) | Rwanda |
+| ![NG](../images/FlagKit/AF/NG/NG@2x.png) | Nigeria | ![RE](../images/FlagKit/AF/RE/RE@2x-alt.png) | Réunion | ![RW](../images/FlagKit/AF/RW/RW@2x.png) | Rwanda |
 | ![ST](../images/FlagKit/AF/ST/ST@2x.png) | São Tomé and Príncipe | ![SN](../images/FlagKit/AF/SN/SN@2x.png) | Senegal | ![SC](../images/FlagKit/AF/SC/SC@2x.png) | Seychelles |
 | ![SL](../images/FlagKit/AF/SL/SL@2x.png) | Sierra Leone | ![SO](../images/FlagKit/AF/SO/SO@2x.png) | Somalia | ![ZA](../images/FlagKit/AF/ZA/ZA@2x.png) | South Africa |
 | ![SS](../images/FlagKit/AF/SS/SS@2x.png) | South Sudan | ![SD](../images/FlagKit/AF/SD/SD@2x.png) | Sudan | ![SZ](../images/FlagKit/AF/SZ/SZ@2x.png) | Swaziland |
