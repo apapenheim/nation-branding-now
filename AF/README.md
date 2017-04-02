@@ -5,4 +5,5 @@
 ## Subordinate Collections
 
 | Flag | Region | Flag | Region |
+| --- | --- | --- | --- |
 | ![AO](../images/FlagKit/AF/AO/AO@2x.png) | Angola | ![BF](../images/FlagKit/AF/BF/BF@2x.png) | Burkina Faso |
