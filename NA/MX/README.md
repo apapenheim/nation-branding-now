@@ -1,6 +1,6 @@
 # Mexico ![MX](https://github.com/apapenheim/nation-branding-now/blob/master/images/FlagKit/NA/MX/MX@2x.png)
 
-Institutional identity assets and visual history from the **United Mexican States**![MX](../../images/FlagKit/NA/MX/MX.png).
+Institutional identity assets and visual history from the **United Mexican States** ![MX](../../images/FlagKit/NA/MX/MX.png).
 
 ## Records
 
