@@ -14,7 +14,7 @@ Including Central America and the Caribbean.
 | ![AI](../images/FlagKit/NA/AI/AI@2x.png) | Anguilla | ![AG](../images/FlagKit/NA/AG/AG@2x.png) | Antigua and Barbuda | ![AW](../images/FlagKit/NA/AW/AW@2x.png) | Aruba |
 | ![BS](../images/FlagKit/NA/BS/BS@2x.png) | Bahamas (the) | ![BB](../images/FlagKit/NA/BB/BB@2x.png) | Barbados | ![BZ](../images/FlagKit/NA/BZ/BZ@2x.png) | Belize |
 | ![BM](../images/FlagKit/NA/BM/BM@2x.png) | Bermuda | ![BQ](../images/FlagKit/NA/BQ/BQ@2x.png) | Bonaire, Sint Eustatius, and Saba | ![VG](../images/FlagKit/NA/VG/VG@2x.png) | British Virgin Islands |
-| ![CA](../images/FlagKit/NA/CA/CA@2x.png) | Canada | ![KY](../images/FlagKit/NA/KY/KY@2x.png) | Cayman Islands | ![CR](../images/FlagKit/NA/CR/CR@2x.png) | Costa Rica |
+| ![CA](../images/FlagKit/NA/CA/CA@2x.png) | [Canada](CA/README.md) | ![KY](../images/FlagKit/NA/KY/KY@2x.png) | Cayman Islands | ![CR](../images/FlagKit/NA/CR/CR@2x.png) | Costa Rica |
 | ![CU](../images/FlagKit/NA/CU/CU@2x.png) | Cuba | ![CW](../images/FlagKit/NA/CW/CW@2x.png) | Curaçao | ![DM](../images/FlagKit/NA/DM/DM@2x.png) | Dominica |
 | ![DO](../images/FlagKit/NA/DO/DO@2x.png) | Dominican Republic | ![SV](../images/FlagKit/NA/SV/SV@2x.png) | El Salvador | ![GL](../images/FlagKit/NA/GL/GL@2x.png) | Greenland |
 | ![GD](../images/FlagKit/NA/GD/GD@2x.png) | Grenada | ![GP](../images/FlagKit/NA/GP/GP@2x.png) | Guadeloupe | ![GT](../images/FlagKit/NA/GT/GT@2x.png) | Guatemala |
