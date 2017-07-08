@@ -16,7 +16,7 @@
 | ![NL](../../images/FlagKit/NA/CA/NL/NL@2x.png) | Newfoundland and Labrador | ![NT](../../images/FlagKit/NA/CA/NT/NT@2x.png) | Northwest Territories |
 | ![NS](../../images/FlagKit/NA/CA/NS/NS@2x.png) | Nova Scotia | ![NU](../../images/FlagKit/NA/CA/NU/NU@2x.png) | Nunavut |
 | ![ON](../../images/FlagKit/NA/CA/ON/ON@2x.png) | Ontario | ![PE](../../images/FlagKit/NA/CA/PE/PE@2x.png) | Prince Edward Island |
-| ![QC](../../images/FlagKit/NA/CA/QC/QC@2x.png) | Québec | ![SK](../../images/FlagKit/NA/CA/SK/SK@2x.png) | Saskatchewan |
+| ![QC](../../images/FlagKit/NA/CA/QC/QC@2x.png) | [Québec](QC/README.md) | ![SK](../../images/FlagKit/NA/CA/SK/SK@2x.png) | Saskatchewan |
 | ![YT](../../images/FlagKit/NA/CA/YT/YT@2x.png) | Yukon |
 
 ## Navigation
