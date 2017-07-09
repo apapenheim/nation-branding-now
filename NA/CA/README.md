@@ -1,6 +1,6 @@
 # Canada ![CA](https://github.com/apapenheim/nation-branding-now/blob/master/images/FlagKit/NA/CA/CA@2x.png)
 
-*A mari usque ad mare*, this page contains institutional identity assets and visual history from **Canada** ![MX](../../images/FlagKit/NA/CA/CA.png).
+*A mari usque ad mare*, this page contains institutional identity assets and visual history from **Canada** ![CA](../../images/FlagKit/NA/CA/CA.png).
 
 ## Records
 
