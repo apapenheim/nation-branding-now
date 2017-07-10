@@ -20,7 +20,7 @@
 
 | Flag | Region | Flag | Region |
 | :---: | :---: | :---: | :---: |
-| ![01](../../../images/FlagKit/NA/CA/QC/01/01@2x.png) | [Bas-Saint-Laurent (01)](/QC/01/README.md) | ![02](../../../images/FlagKit/NA/CA/QC/02/02@2x.png) | Saguenay–Lac-Saint-Jean (02) |
+| ![01](../../../images/FlagKit/NA/CA/QC/01/01@2x.png) | [Bas-Saint-Laurent (01)](01/README.md) | ![02](../../../images/FlagKit/NA/CA/QC/02/02@2x.png) | Saguenay–Lac-Saint-Jean (02) |
 | ![03](../../../images/FlagKit/NA/CA/QC/03/03@2x.png) | Capitale-Nationale (03) | ![04](../../../images/FlagKit/NA/CA/QC/04/04@2x.png) | Mauricie (04) |
 | ![05](../../../images/FlagKit/NA/CA/QC/05/05@2x.png) | Estrie (05) | ![06](../../../images/FlagKit/NA/CA/QC/06/06@2x.png) | Montréal (06) |
 | ![07](../../../images/FlagKit/NA/CA/QC/07/07@2x.png) | Outaouais (07) | ![08](../../../images/FlagKit/NA/CA/QC/08/08@2x.png) | Abitibi-Témiscamingue (08) |
