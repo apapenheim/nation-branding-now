@@ -13,14 +13,27 @@
 ## Details
 
 **Client:** Conseil régional de concertation et de développement du Bas-Saint-Laurent
+
 **Designer:**
+
 **Years in use:** 1992-2004
+
 **Notes:** The CRCD identity was not applied in a particularly uniform manner, and deviation from the colourings displayed above was not uncommon. Many official documents contained retraced copies of the design mark, which do not match the geometry of the most prevalent (and assumed correct) example reproduced here. Early examples appear in gold, Pantone 873 CVC. Later variants either include a gradient or adopt colours from the 2001 Bas-Saint-Laurent place brand. Designer unknown, CRCD projects from the late '90s suggest Clermont Malenfant of Maximage Design (Québec company code: 1144937266), based in Rimouski at the time (125 rue de l'Evêché O, Bureau 203). Preceded by the *Conseil régional de développement du Bas-Saint-Laurent* and followed by the *Conférence régionale des ÉluEs du Bas-Saint-Laurent*.
 
 ## Documentation
 
-### Graphics Package (.zip)
+#### Graphics Package
 
+File contents:
+> CRCD-coul-1997.eps  
+> CRCD-coul-2001.eps  
+> CRCD-coul-gradient-2001.eps  
+> CRCD-coul-pantone-1997.eps  
+> CRCD-noir.eps
+
+| Type | Link |
+| :---: | :--- |
+| .7z | [Download](https://f001.backblazeb2.com/b2api/v1/b2_download_file_by_id?fileId=4_z3894feac81452eca5eb50012_f11388204c436bd55_d20170710_m042212_c001_v0001042_t0004) |
 
 ## Navigation
 
