@@ -31,7 +31,7 @@ File contents:
 
 | Type | Link |
 | :---: | :--- |
-| .7z | [Download](https://f001.backblazeb2.com/b2api/v1/b2_download_file_by_id?fileId=4_z3894feac81452eca5eb50012_f102965c2b3e693fe_d20180106_m074734_c001_v0001044_t0049) |
+| .7z | [Download](https://f001.backblazeb2.com/file/nation-branding-now/NA/CA/QC/01/CREBSL-logotype.7z) |
 
 ## Navigation
 
