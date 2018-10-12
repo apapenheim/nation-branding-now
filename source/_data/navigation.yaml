@@ -1,0 +1,72 @@
+{
+  "logo": {
+    "text": "Nation Branding Now",
+    "type": "link",
+    "path": "index.html"
+  },
+  "main": [
+    {
+      "text": "Startpage",
+      "type": "link",
+      "path": "index.html"
+    },
+    {
+      "text": "BROWSE",
+      "type": "label"
+    },
+    {
+      "text": "Africa",
+      "type": "link",
+      "path": "AF.html"
+    },
+    {
+      "text": "Antarctica",
+      "type": "link",
+      "path": "AN.html"
+    },
+    {
+      "text": "Asia",
+      "type": "link",
+      "path": "AS.html"
+    },
+    {
+      "text": "Europe",
+      "type": "link",
+      "path": "EU.html"
+    },
+    {
+      "text": "North America",
+      "type": "link",
+      "path": "NA.html"
+    },
+    {
+      "text": "Oceania",
+      "type": "link",
+      "path": "OC.html"
+    },
+    {
+      "text": "South America",
+      "type": "link",
+      "path": "SA.html"
+    },
+    {
+      "text": "IOs",
+      "type": "link",
+      "path": "WW.html"
+    },
+    {
+      "text": "SUPPORT AND FEEDBACK",
+      "type": "label"
+    },
+    {
+      "text": "User Guide",
+      "type": "link",
+      "path": "guide.html"
+    },
+    {
+      "text": "Raise an Issue on Github",
+      "type": "link",
+      "path": "https://github.com/apapenheim/nation-branding-now/issues/new"
+    }
+  ]
+}
