@@ -1,3 +1,5 @@
+> 🐦 **NBN is migrating!** 🐦 In truth, we have been for quite some time. This project is in the locally-stored hinterland as we gather more robust documentation and port the service over to a site generator which makes a little bit more sense. Pardon our dust, and that we forget to write home, and get ready for something exciting!
+
 # ![Nation Branding Now](images/nbn_logo.png?raw=true)
 
 ## Avant-propos
