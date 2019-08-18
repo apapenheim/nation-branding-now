@@ -21,6 +21,7 @@ theme: ../node_modules/hexo-theme-doc
 
 theme_config:
   favicon: images/favicon.ico
+  google_analytics: UA-145856346-1
 
 ignore:
   # development only: ignore sub node_modules when `npm link hexo-theme-doc`
