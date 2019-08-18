@@ -120,8 +120,15 @@ The following countries have been approved for cross-category linkages.
 | <img src="/images/FlagKit/SA/GS/GS.png" class="flagkit"> | South Georgia and South Sandwich Islands |
 | <img src="/images/FlagKit/AS/TR/TR.png" class="flagkit"> | Turkey |
 
+[← Back to User Guide](../guide.html)
+
 ___
 
 <sup>[1]</sup> [Lewis and Wigen 1997, pp. 21-46.](http://www.jstor.org/stable/10.1525/j.ctt1pnv6t)
 <sup>[2]</sup> [Takle and Vassenden 1998, p. 17.](https://www.unece.org/fileadmin/DAM/stats/documents/1998/03/migration/5.e.pdf)
 <sup>[3]</sup> [Rothwell et al. 2012, p. 5.](https://www.routledge.com/9780415620253)
+
+---
+
+Page instantiated: 27 March 2017.
+Date of last revision: 19 February 2019.

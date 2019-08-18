@@ -39,3 +39,10 @@ Clarity and distinctiveness are core values of *NBN*. To that end, consistent us
 # A Final Notice
 
 The delegation of countries or areas to specific groupings is for coherence, convenience, and consistency. On the part of both *NBN* and its contributors, it implies neither any assumption regarding political or other affiliation of countries or territories, nor any statement or endorsement to any extent and of any kind as to territorial sovereignty. While conversations regarding toponyms and status are important, this venue is most emphatically not a theatre for such wars of attrition. One is free to [open an issue here](https://github.com/apapenheim/nation-branding-now/issues/new), but it behooves one to be mindful of the fact that this is both *not* the United Nations, and not a forum for exsanguination *over* the United Nations.
+
+[← Back to User Guide](../guide.html)
+
+---
+
+Page instantiated: 27 March 2017.
+Date of last revision: 19 February 2019.

@@ -2,7 +2,7 @@
 title: Québec
 ---
 
-# Québec <img src="../../images/FlagKit/NA/CA/QC/QC@2x.png" class="flagkit">
+# Québec <img src="../../images/FlagKit/NA/CA/QC/QC@3x.png" class="flagkit-head">
 
 *Ça va?* This page contains institutional identity assets and visual history from the **Province du Québec** <img src="../../images/FlagKit/NA/CA/QC/QC.png" class="flagkit">.
 
@@ -24,17 +24,17 @@ While the *gouvernement du Québec* has yet to replace these dissolved regional 
 
 | Flag | Region | Flag | Region |
 | :---: | :---: | :---: | :---: |
-| ![08](../../images/FlagKit/NA/CA/QC/08/08@2x.png) | Abitibi-Témiscamingue (08) | ![15](../../images/FlagKit/NA/CA/QC/15/15@2x.png) | Laurentides (15) |
-| ![01](../../images/FlagKit/NA/CA/QC/01/01@2x.png) | [Bas-Saint-Laurent (01)](QC/01.html) | ![13](../../images/FlagKit/NA/CA/QC/13/13@2x.png) | Laval (13) |
-| ![03](../../images/FlagKit/NA/CA/QC/03/03@2x.png) | Capitale-Nationale (03) | ![04](../../images/FlagKit/NA/CA/QC/04/04@2x.png) | Mauricie (04) |
-| ![17](../../images/FlagKit/NA/CA/QC/17/17@2x.png) | Centre-du-Québec (17) | ![16](../../images/FlagKit/NA/CA/QC/16/16@2x.png) | Montérégie (16) |
-| ![12](../../images/FlagKit/NA/CA/QC/12/12@2x.png) | Chaudière-Appalaches (12) | ![06](../../images/FlagKit/NA/CA/QC/06/06@2x.png) | Montréal (06) |
-| ![09](../../images/FlagKit/NA/CA/QC/09/09@2x.png) | Côte-Nord (09) | ![10](../../images/FlagKit/NA/CA/QC/10/10@2x.png) | Nord-du-Québec (10) |
-| ![05](../../images/FlagKit/NA/CA/QC/05/05@2x.png) | Estrie (05) | ![07](../../images/FlagKit/NA/CA/QC/07/07@2x.png) | Outaouais (07) |
-| ![11](../../images/FlagKit/NA/CA/QC/11/11@2x.png) | Gaspésie–Îles-de-la-Madeleine (11) | ![02](../../images/FlagKit/NA/CA/QC/02/02@2x.png) | Saguenay–Lac-Saint-Jean (02) |
-| ![14](../../images/FlagKit/NA/CA/QC/14/14@2x.png) | Lanaudière (14) | | | |
+| <img src="../../images/FlagKit/NA/CA/QC/08/08@3x.png" class="flagkit-head"> | Abitibi-Témiscamingue (08) | <img src="../../images/FlagKit/NA/CA/QC/15/15@3x.png" class="flagkit-head"> | Laurentides (15) |
+| <img src="../../images/FlagKit/NA/CA/QC/01/01@3x.png" class="flagkit-head"> | [Bas-Saint-Laurent (01)](QC/01.html) | <img src="../../images/FlagKit/NA/CA/QC/13/13@3x.png" class="flagkit-head"> | Laval (13) |
+| <img src="../../images/FlagKit/NA/CA/QC/03/03@3x.png" class="flagkit-head"> | Capitale-Nationale (03) | <img src="../../images/FlagKit/NA/CA/QC/04/04@3x.png" class="flagkit-head"> | Mauricie (04) |
+| <img src="../../images/FlagKit/NA/CA/QC/17/17@3x.png" class="flagkit-head"> | Centre-du-Québec (17) | <img src="../../images/FlagKit/NA/CA/QC/16/16@3x.png" class="flagkit-head"> | Montérégie (16) |
+| <img src="../../images/FlagKit/NA/CA/QC/12/12@3x.png" class="flagkit-head"> | Chaudière-Appalaches (12) | <img src="../../images/FlagKit/NA/CA/QC/06/06@3x.png" class="flagkit-head"> | Montréal (06) |
+| <img src="../../images/FlagKit/NA/CA/QC/09/09@3x.png" class="flagkit-head"> | Côte-Nord (09) | <img src="../../images/FlagKit/NA/CA/QC/10/10@3x.png" class="flagkit-head"> | Nord-du-Québec (10) |
+| <img src="../../images/FlagKit/NA/CA/QC/05/05@3x.png" class="flagkit-head"> | Estrie (05) | <img src="../../images/FlagKit/NA/CA/QC/07/07@3x.png" class="flagkit-head"> | Outaouais (07) |
+| <img src="../../images/FlagKit/NA/CA/QC/11/11@3x.png" class="flagkit-head"> | Gaspésie–Îles-de-la-Madeleine (11) | <img src="../../images/FlagKit/NA/CA/QC/02/02@3x.png" class="flagkit-head"> | Saguenay–Lac-Saint-Jean (02) |
+| <img src="../../images/FlagKit/NA/CA/QC/14/14@3x.png" class="flagkit-head"> | Lanaudière (14) | | | |
 
 
 ## Navigation
 
-[← Back to Canada <img src="../../images/FlagKit/NA/CA/CA.png" class="flagkit">](../CA.html)
+[← Back to Canada <img src="../../images/FlagKit/NA/CA/CA@2x.png" class="flagkit">](../CA.html)

@@ -44,6 +44,13 @@ While the smallest administrative division encompassing all of the effected terr
 
 Cases like these are to always include a note of the limited regional scope for the aid of the reader. Should one feel it necessary to abrogate these guidelines, always defer to clarity, readability, and ease-of-access.
 
+[← Back to User Guide](../guide.html)
 
 ---
+
 <sup>[1]</sup> Duchies, departments, delegations, districts, and divisions are to be covered in a separate article.
+
+---
+
+Page instantiated: 10 July 2017.
+Date of last revision: 19 February 2019.

@@ -6,17 +6,17 @@ title: CRCD Bas-Saint-Laurent
 
 ## Image
 
-<img src="https://f001.backblazeb2.com/b2api/v1/b2_download_file_by_id?fileId=4_z28c49eac21252eda5eb50012_f1039a262cb07ca26_d20170709_m070834_c001_v0001043_t0004" class="focus-image">
+<img src="https://f001.backblazeb2.com/b2api/v1/b2_download_file_by_id?fileId=4_z28c49eac21252eda5eb50012_f117fe736b2e934b5_d20181014_m011438_c001_v0001038_t0039" class="focus-image">
 
 *NOTE: The above colourations saw usage until 2001.*
 
-<img src="https://f001.backblazeb2.com/b2api/v1/b2_download_file_by_id?fileId=4_z28c49eac21252eda5eb50012_f111b386ef9043daa_d20170709_m070837_c001_v0001042_t0033" class="focus-image">
+<img src="https://f001.backblazeb2.com/b2api/v1/b2_download_file_by_id?fileId=4_z28c49eac21252eda5eb50012_f114806a9c5815cad_d20181014_m011445_c001_v0001033_t0027" class="focus-image">
 
 *NOTE: The above colourations saw usage in the period 2001-2004.*
 
 ## Details
 
-**Client:** Conseil régional de concertation et de développement du Bas-Saint-Laurent
+**Client:** Conseil régional de concertation et de développement du Bas-Saint-Laurent (Rimouski, QC)
 
 **Designer:** *See Remarks*
 
@@ -41,4 +41,4 @@ File contents:
 
 ## Navigation
 
-[← Back to Bas-Saint-Laurent <img src="../../../../images/FlagKit/NA/CA/QC/01/01.png" class="flagkit">](../01.html)
+[← Back to Bas-Saint-Laurent <img src="../../../../images/FlagKit/NA/CA/QC/01/01@2x.png" class="flagkit">](../01.html)

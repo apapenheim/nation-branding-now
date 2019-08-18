@@ -1,3 +1,8 @@
+---
+title: Flags
+---
+
+
 In navigation of *NBN*, one will come across numerous signalling devices taking on the appearance of flags, such as: national flags, international flags, house-made identification aids, and vexilloids. This page will assist the reader in making sense of what they see, as well as provide guidance on selecting flags for incorporation into the project.
 
 ## FlagKit
@@ -28,7 +33,7 @@ Other regions do not customarily identify themselves with flags. In such cases, 
 
 ![Thumbnails of maps of Québec administrative regions](/images/guide/qc_thumbs.jpg)
 
-If a regional flag is documented to be used or acknowledged by a recognized and legitimate government, either regional or national in scope, *defer to the official representation*.
+If a regional flag is documented to be used or acknowledged by a recognized and legitimate government, either regional or national in scope, *avoid custom icons and defer to an official representation*.
 
 ### Less-than-official Identifying Markers
 
@@ -42,11 +47,11 @@ While by no means professing to be a perfect system of categorization, the taggi
 
 | CatFlag | Description |
 | :-----: | :-----: |
-| ![01](https://github.com/apapenheim/nation-branding-now/blob/master/images/cat_flags/01.png?raw=true) | Governmental Identification |
-| ![02](https://github.com/apapenheim/nation-branding-now/blob/master/images/cat_flags/02.png?raw=true) | Tourism |
-| ![03](https://github.com/apapenheim/nation-branding-now/blob/master/images/cat_flags/03.png?raw=true) | Political (Primarily associated with a party or a person) |
-| ![04](https://github.com/apapenheim/nation-branding-now/blob/master/images/cat_flags/04.png?raw=true) | Economic Development |
-| ![05](https://github.com/apapenheim/nation-branding-now/blob/master/images/cat_flags/05.png?raw=true) | Something Else |
+| ![01](/images/guide/catflag_01.png) | Governmental Identification `(/images/cat_flags/01.png)` |
+| ![02](/images/guide/catflag_02.png) | Tourism `(/images/cat_flags/02.png)` |
+| ![03](/images/guide/catflag_03.png) | Political, primarily associated with a party or a person `(/images/cat_flags/03.png)` |
+| ![04](/images/guide/catflag_04.png) | Economic Development `(/images/cat_flags/04.png)` |
+| ![05](/images/guide/catflag_05.png) | Something Else `(/images/cat_flags/05.png)` |
 
 ## Best Practices
 * Make every effort to adhere to FlagKit v1 style. *NBN* assets are forked from [FlagKit v1.1.1](https://github.com/madebybowtie/FlagKit/releases/tag/v1.1.1), and Sketch files are available in the release package on the FlagKit repo.
@@ -54,3 +59,10 @@ While by no means professing to be a perfect system of categorization, the taggi
 * Some highly complex flags do not minify particularly well. One is welcome – but not strictly required – to simplify complicated graphic elements in order to improve graphics at small sizes. Refer to the pre-constructed examples in the FlagKit sketch file for guidance in reducing the number of points in complex shapes.
 * When in doubt, go without. The null flag <img src="/images/FlagKit/NULL.png" class="flagkit"> is located at `/images/FlagKit/NULL.png`
 * With respect to quasi-official signalling devices: **No passion projects.**
+
+[← Back to User Guide](../guide.html)
+
+---
+
+Page instantiated: 11 October 2018.
+Date of last revision: 12 October 2018.
