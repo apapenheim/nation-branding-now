@@ -20,4 +20,4 @@ title: South America
 | <img src="images/FlagKit/SA/CL/CL@3x.png" class="flagkit-head"> | Chile | <img src="images/FlagKit/SA/GS/GS@3x.png" class="flagkit-head"> | South Georgia and the South Sandwich Islands |
 | <img src="images/FlagKit/SA/CO/CO@3x.png" class="flagkit-head"> | Colombia | <img src="images/FlagKit/SA/SR/SR@3x.png" class="flagkit-head"> | Suriname |
 | <img src="images/FlagKit/SA/EC/EC@3x.png" class="flagkit-head"> | Ecuador | <img src="images/FlagKit/SA/UY/UY@3x.png" class="flagkit-head"> | Uruguay |
-| <img src="images/FlagKit/SA/FK/FK@3x.png" class="flagkit-head"> | Falkland Isalnds (Malvinas) | <img src="images/FlagKit/SA/VE/VE@3x.png" class="flagkit-head"> | Venezuela (Bolivarian Republic of) |
+| <img src="images/FlagKit/SA/FK/FK@3x.png" class="flagkit-head"> | Falkland Islands (Malvinas) | <img src="images/FlagKit/SA/VE/VE@3x.png" class="flagkit-head"> | Venezuela (Bolivarian Republic of) |

@@ -17,21 +17,26 @@ Subordinate records for Brazil are organized by state.
 
 | Flag | Region | Flag | Region |
 | :---: | :---: | :---: | :---: |
-| <img src="../images/FlagKit/SA/BR/AC/AC@3x.png" class="flagkit-head"> | Acre | <img src="../images/FlagKit/SA/BR/PB/PB@3x.png" class="flagkit-head"> | Paraíba |
-| <img src="../images/FlagKit/SA/BR/AL/AL@3x.png" class="flagkit-head"> | Alagoas | <img src="../images/FlagKit/SA/BR/PR/PR@3x.png" class="flagkit-head"> | Paraná |
-| <img src="../images/FlagKit/SA/BR/AP/AP@3x.png" class="flagkit-head"> | Amapá | <img src="../images/FlagKit/SA/BR/PE/PE@3x.png" class="flagkit-head"> | Pernambuco |
-| <img src="../images/FlagKit/SA/BR/AM/AM@3x.png" class="flagkit-head"> | Amazonas | <img src="../images/FlagKit/SA/BR/PI/PI@3x.png" class="flagkit-head"> | [Piauí](CA/QC.html) |
-| <img src="../images/FlagKit/SA/BR/BA/BA@3x.png" class="flagkit-head"> | Bahia | <img src="../images/FlagKit/SA/BR/RJ/RJ@3x.png" class="flagkit-head"> | Rio de Janeiro |
-| <img src="../images/FlagKit/SA/BR/CE/CE@3x.png" class="flagkit-head"> | Ceará | <img src="../images/FlagKit/SA/BR/RN/RN@3x.png" class="flagkit-head"> | Rio Grande do Norte |
-| <img src="../images/FlagKit/SA/BR/DF/DF@3x.png" class="flagkit-head"> | Distrito Federal | <img src="../images/FlagKit/SA/BR/RS/RS@3x.png" class="flagkit-head"> | Rio Grande do Sul |
-| <img src="../images/FlagKit/SA/BR/ES/ES@3x.png" class="flagkit-head"> | Espírito Santo | <img src="../images/FlagKit/SA/BR/RO/RO@3x.png" class="flagkit-head"> | Rondônia |
-| <img src="../images/FlagKit/SA/BR/GO/GO@3x.png" class="flagkit-head"> | Goiás | <img src="../images/FlagKit/SA/BR/RR/RR@3x.png" class="flagkit-head"> | Roraima |
-| <img src="../images/FlagKit/SA/BR/MA/MA@3x.png" class="flagkit-head"> | Maranhão | <img src="../images/FlagKit/SA/BR/SC/SC@3x.png" class="flagkit-head"> | Santa Catarina |
-| <img src="../images/FlagKit/SA/BR/MT/MT@3x.png" class="flagkit-head"> | Mato Grosso | <img src="../images/FlagKit/SA/BR/SP/SP@3x.png" class="flagkit-head"> | São Paulo |
-| <img src="../images/FlagKit/SA/BR/MS/MS@3x.png" class="flagkit-head"> | Mato Grosso do Sul | <img src="../images/FlagKit/SA/BR/SE/SE@3x.png" class="flagkit-head"> | Sergipe |
-| <img src="../images/FlagKit/SA/BR/MG/MG@3x.png" class="flagkit-head"> | Minas Gerais | <img src="../images/FlagKit/SA/BR/TO/TO@3x.png" class="flagkit-head"> | Tocantins |
-| <img src="../images/FlagKit/SA/BR/PA/PA@3x.png" class="flagkit-head"> | Pará | | | |
+| <img src="../images/FlagKit/SA/BR/AC/AC@3x.png" class="flagkit-head"> | [Acre](BR/AC.html) | <img src="../images/FlagKit/SA/BR/PB/PB@3x.png" class="flagkit-head"> | [Paraíba](BR/PB.html) |
+| <img src="../images/FlagKit/SA/BR/AL/AL@3x.png" class="flagkit-head"> | [Alagoas](BR/AL.html) | <img src="../images/FlagKit/SA/BR/PR/PR@3x.png" class="flagkit-head"> | [Paraná](BR/PR.html) |
+| <img src="../images/FlagKit/SA/BR/AP/AP@3x.png" class="flagkit-head"> | [Amapá](BR/AP.html) | <img src="../images/FlagKit/SA/BR/PE/PE@3x.png" class="flagkit-head"> | [Pernambuco](BR/PE.html) |
+| <img src="../images/FlagKit/SA/BR/AM/AM@3x.png" class="flagkit-head"> | [Amazonas](BR/AM.html) | <img src="../images/FlagKit/SA/BR/PI/PI@3x.png" class="flagkit-head"> | [Piauí](BR/PI.html) |
+| <img src="../images/FlagKit/SA/BR/BA/BA@3x.png" class="flagkit-head"> | [Bahia](BR/BA.html) | <img src="../images/FlagKit/SA/BR/RJ/RJ@3x.png" class="flagkit-head"> | [Rio de Janeiro](BR/RJ.html) |
+| <img src="../images/FlagKit/SA/BR/CE/CE@3x.png" class="flagkit-head"> | [Ceará](BR/CE.html) | <img src="../images/FlagKit/SA/BR/RN/RN@3x.png" class="flagkit-head"> | [Rio Grande do Norte](BR/RN.html) |
+| <img src="../images/FlagKit/SA/BR/DF/DF@3x.png" class="flagkit-head"> | [Distrito Federal](BR/DF.html) | <img src="../images/FlagKit/SA/BR/RS/RS@3x.png" class="flagkit-head"> | [Rio Grande do Sul](BR/RS.html) |
+| <img src="../images/FlagKit/SA/BR/ES/ES@3x.png" class="flagkit-head"> | [Espírito Santo](BR/ES.html) | <img src="../images/FlagKit/SA/BR/RO/RO@3x.png" class="flagkit-head"> | [Rondônia](BR/RO.html) |
+| <img src="../images/FlagKit/SA/BR/GO/GO@3x.png" class="flagkit-head"> | [Goiás](BR/GO.html) | <img src="../images/FlagKit/SA/BR/RR/RR@3x.png" class="flagkit-head"> | [Roraima](BR/RR.html) |
+| <img src="../images/FlagKit/SA/BR/MA/MA@3x.png" class="flagkit-head"> | [Maranhão](BR/MA.html) | <img src="../images/FlagKit/SA/BR/SC/SC@3x.png" class="flagkit-head"> | [Santa Catarina](BR/SC.html) |
+| <img src="../images/FlagKit/SA/BR/MT/MT@3x.png" class="flagkit-head"> | [Mato Grosso](BR/MT.html) | <img src="../images/FlagKit/SA/BR/SP/SP@3x.png" class="flagkit-head"> | [São Paulo](BR/SP.html) |
+| <img src="../images/FlagKit/SA/BR/MS/MS@3x.png" class="flagkit-head"> | [Mato Grosso do Sul](BR/MS.html) | <img src="../images/FlagKit/SA/BR/SE/SE@3x.png" class="flagkit-head"> | [Sergipe](BR/SE.html) |
+| <img src="../images/FlagKit/SA/BR/MG/MG@3x.png" class="flagkit-head"> | [Minas Gerais](BR/MG.html) | <img src="../images/FlagKit/SA/BR/TO/TO@3x.png" class="flagkit-head"> | [Tocantins](BR/TO.html) |
+| <img src="../images/FlagKit/SA/BR/PA/PA@3x.png" class="flagkit-head"> | [Pará](BR/PA.html) | | | |
 
 ## Navigation
 
 [← Back to South America <img src="../images/FlagKit/SA@2x.png" class="flagkit">](../SA.html)
+
+---
+
+Page instantiated: 18 August 2019.
+Date of last revision: 19 August 2019.
