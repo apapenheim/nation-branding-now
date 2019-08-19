@@ -16,6 +16,6 @@ The project has an extensive suite of [documentation](https://nationbrandingnow.
 
 ---
 
-### License
+### Licence
 
 The source code used to display *NBN* content is made available under the MIT licence. The content of the project itself, including content linked to or furnished by third parties, has heterogeneous use limitations. The docs contain [a short primer on re-use](https://nationbrandingnow.com/guide/use.html) if one wishes to duplicate *NBN* content. Do be aware that some protected government marks and emblems have very narrowly-defined or exceptional protections under law. It comes with the territory – we are an open reference that describes protected marks, so some assets are by their very nature non-free and require the end user to have a statutory exception. Exercise caution and familiarize yourself with all applicable rules in your home jurisdiction.
