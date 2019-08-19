@@ -1,4 +1,4 @@
-![NBN logo](https://raw.githubusercontent.com/apapenheim/nation-branding-now/master/images/nbn_logo.svg?sanitize=true)
+<p align="center"><img width="150%" src="https://raw.githubusercontent.com/apapenheim/nation-branding-now/master/images/nbn_logo.svg?sanitize=true" alt="NBN logo"></p>
 
 ## Avant-propos
 
@@ -8,11 +8,13 @@ In the *NBN* project, one will find a historical catalogue of brand identity str
 
 ## Browse
 
-The *NBN* project is now live at (https://nationbrandingnow.com).
+The *NBN* project is now live at https://nationbrandingnow.com.
 
 ## More Info
 
 The project has an extensive suite of [documentation](https://nationbrandingnow.com/guide.html) explaining why we take the decisions we do.
+
+---
 
 ### License
 
