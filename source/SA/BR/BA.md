@@ -2,9 +2,9 @@
 title: Bahia
 ---
 
-# Bahia <img src="../../images/FlagKit/SA/BR/AL/AL@3x.png" class="flagkit-head">
+# Bahia <img src="../../images/FlagKit/SA/BR/BA/BA@3x.png" class="flagkit-head">
 
-This page contains institutional identity assets and visual history from the **Estado da Bahia** <img src="../../images/FlagKit/SA/BR/AL/AL@3x.png" class="flagkit">.
+This page contains institutional identity assets and visual history from the **Estado da Bahia** <img src="../../images/FlagKit/SA/BR/BA/BA@3x.png" class="flagkit">.
 
 ## Records
 
