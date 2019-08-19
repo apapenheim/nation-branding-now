@@ -22,6 +22,11 @@ theme: ../node_modules/hexo-theme-doc
 theme_config:
   favicon: images/favicon.ico
   google_analytics: UA-145856346-1
+  support:
+    link_url: 'TK',
+    text: 'Content on NationBrandingNow is non-exhaustive and compiled using best-available public information. Nothing on this page should be taken as an endorsement of or affiliation with any government. Be aware that protected marks have stringent use restrictions. If you have a comment or question about what you saw today, feel free to'
+    link_text: 'contact the editorial team.',
+    navigation: false
 
 ignore:
   # development only: ignore sub node_modules when `npm link hexo-theme-doc`
