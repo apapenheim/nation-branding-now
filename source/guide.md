@@ -21,3 +21,5 @@ Supporting Documentation
 ## Use and Re-use
 
 [Can I use this?](guide/use.html)
+Contribution Guidelines
+I am a rights-holder. Help!
