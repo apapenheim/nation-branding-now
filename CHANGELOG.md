@@ -2,6 +2,17 @@
 
 The Changelog tracks content changes to the *NBN* project. We try to provide a written description of what is new on the night following any revisions.
 
+## v1.0.2 – 20 August 2019
+
+**Added:**
+
+- Draft of a [portal for rights-holders](https://nationbrandingnow.com/guide/rights-holders.html).
+
+**Changed:**
+
+- Navigation now links to both rights-management and this Changelog.
+- Small tweaks to the footer.
+
 ## v1.0.1 – 19 August 2019
 
 **Added:**

@@ -23,4 +23,4 @@ Supporting Documentation
 
 [Can I use this?](guide/use.html)
 Contribution Guidelines
-I am a rights-holder. Help!
+[I am a rights-holder. Help!](guide/rights-holders.html)
