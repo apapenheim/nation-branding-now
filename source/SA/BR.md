@@ -8,8 +8,10 @@ title: Brazil
 
 ## Records
 
-| Image | Identity |
-| :---: | :------- |
+| Image | Identity | Years Active | Tags ([?](/guide/flags.html#Flags-Aiding-in-Classification)) |
+| :---: | :------- | :-----------:| :---: |
+| <img src="https://img.nationbrandingnow.com/file/nbn-photos/SA/BR/PATRIA_thumb.png" class="record-thumb"> | [Pátria Amada](BR/PATRIA.html) | **2019–2022** | <img src="../../../images/cat_flags/01.png" class="catflag" title="Government Brand"> <img src="../../../images/cat_flags/03.png" class="catflag" title="Political"> |
+| <img src="https://f001.backblazeb2.com/b2api/v1/b2_download_file_by_id?fileId=4_z28c49eac21252eda5eb50012_f1124ba68ace580c4_d20181014_m002758_c001_v0001106_t0051" class="record-thumb"> | [Ordem e Progresso](BR/TEMER.html) | 2016–2018 | <img src="../../../images/cat_flags/01.png" class="catflag" title="Government Brand"> <img src="../../../images/cat_flags/03.png" class="catflag" title="Political"> |
 
 ## Subordinate Collections
 
@@ -39,4 +41,4 @@ Subordinate records for Brazil are organized by state.
 ---
 
 Page instantiated: 18 August 2019.
-Date of last revision: 19 August 2019.
+Date of last revision: 20 August 2019.

@@ -64,14 +64,14 @@
       "path": "guide.html"
     },
     {
-      "text": "Info for Rights-holders",
-      "type": "link",
-      "path": "guide/rights-holders.html"
-    },
-    {
       "text": "What's on? (Changelog)",
       "type": "link",
       "path": "https://github.com/apapenheim/nation-branding-now/blob/master/CHANGELOG.md"
+    },
+    {
+      "text": "Info for Rights-holders",
+      "type": "link",
+      "path": "guide/rights-holders.html"
     },
     {
       "text": "Raise an Issue on Github",
