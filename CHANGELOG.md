@@ -2,6 +2,16 @@
 
 The Changelog tracks content changes to the *NBN* project. We try to provide a written description of what is new on the night following any revisions.
 
+## v1.0.3 – 26 August 2019
+
+**Added:**
+
+- Brazilian federal government 2019-2022 visual identity.
+
+**Changed:**
+
+- Hitting some API limits on the current asset-serving platform. Phasing in a Git LFS solution.
+
 ## v1.0.2 – 20 August 2019
 
 **Added:**
