@@ -6,7 +6,7 @@ title: Pátria Amada – Brasil
 
 ## Image
 
-<img src="https://img.nationbrandingnow.com/file/nbn-photos/SA/BR/PATRIA_pane.png" class="focus-image">
+<img src="https://nationbrandingnow.com/assets/SA/BR/PATRIA_pane.png" class="focus-image">
 
 ## Details
 
