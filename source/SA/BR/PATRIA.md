@@ -29,9 +29,9 @@ title: Pátria Amada – Brasil
 
 | Type | Link |
 | :---: | :--- |
-| .pdf | [Download (Manual v06, 17 January 2019)](https://static.nationbrandingnow.com/file/nation-branding-now/SA/BR/manual-de-uso-da-marca-do-governo-federal-janeiro-2019_v06.pdf) |
-| .pdf | [Download (Manual, *Obras*, 15 January 2019)](https://static.nationbrandingnow.com/file/nation-branding-now/SA/BR/manual-de-uso-da-marca-do-governo-federal-obras-2019.pdf) |
-| .pdf | [Download (Manual, *Patrocínio*, 17 January 2019)](https://static.nationbrandingnow.com/file/nation-branding-now/SA/BR/manual-de-uso-da-marca-do-governo-federal-patrocinio-2019.pdf) |
+| .pdf | [Download (Manual v06, 17 January 2019)](/assets/SA/BR/patria/manual-de-uso-da-marca-do-governo-federal-janeiro-2019_v06.pdf) |
+| .pdf | [Download (Manual, *Obras*, 15 January 2019)](/assets/SA/BR/patria/manual-de-uso-da-marca-do-governo-federal-obras-2019.pdf) |
+| .pdf | [Download (Manual, *Patrocínio*, 17 January 2019)](/assets/SA/BR/patria/manual-de-uso-da-marca-do-governo-federal-patrocinio-2019.pdf) |
 
 #### Graphics Package
 
@@ -56,20 +56,7 @@ File contents:
 
 | Type | Link |
 | :---: | :--- |
-| .7z | [Download](https://static.nationbrandingnow.com/file/nation-branding-now/SA/BR/BR_PATRIA.7z) |
-
-#### Strategic Communications Plan
-
-**Title:** Plan stratégique de communication
-**Author:** Triomphe marketing et communication, in collaboration with Desjardins Marketing Stratégique
-**Date:** 2001
-**Remarks:** This report, prepared for the CRCD du Bas-Saint-Laurent, is divided into three subsections. The first is a diagnostic overview and survey, the second is the final prepared report, and the third is a catalogue of graphic assets prepared by Triomphe acting on the results of the market research. The sections are subtitled "Diagnostic marketing," "Rapport final," and "Annexes du rapport final," respectively.
-
-| Type | Link |
-| :---: | :--- |
-| .pdf | [Download (Diagnostic marketing)](https://f001.backblazeb2.com/file/nation-branding-now/NA/CA/QC/01/BSLDiagnostic+Marketing.pdf) |
-| .pdf | [Download (Rapport final)](https://f001.backblazeb2.com/file/nation-branding-now/NA/CA/QC/01/BSLPlanComm.pdf) |
-| .pdf | [Download (Annexes du rapport final)](https://f001.backblazeb2.com/file/nation-branding-now/NA/CA/QC/01/BSLPlanCommMateriel.pdf) |
+| .7z | [Download](/assets/SA/BR/patria/BR_PATRIA.7z) |
 
 ## Navigation
 
@@ -78,4 +65,4 @@ File contents:
 ---
 
 Page instantiated: 20 August 2019.
-Date of last revision: 26 August 2019.
+Date of last revision: 30 October 2019.
