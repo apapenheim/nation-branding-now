@@ -38,19 +38,44 @@ title: Brasil – Um País de Todos
 | .pdf | [Download (Manual, *Patrocínio*, 2 January 2006)](/assets/SA/BR/lula/manual_patrocinio.pdf) |
 | .pdf | [Download (Manual, *Patrocínio*, 6 March 2006)](/assets/SA/BR/lula/manual_patrocinio_0603.pdf) |
 | .pdf | [Download (Manual, *Patrocínio*, 6 August 2009)](/assets/SA/BR/lula/manual_marcaspatrocinio1.pdf) |
-| .pdf | [Download (Manual, *Patrocínio*, 2009)](/assets/SA/BR/lula/Manual-de-Uso-da-Marca-do-Governo-Federal_Patrocínio.pdf) |
+| .pdf | [Download (Manual, *Patrocínio*, 2009)](/assets/SA/BR/lula/Manual-de-Uso-da-Marca-do-Governo-Federal_Patrocinio.pdf) |
 | .pdf | [Download (Manual, *Publicidade Legal*, v1, May 2003)](/assets/SA/BR/lula/legal.pdf) |
 | .pdf | [Download (Manual, *Publicidade Legal*, v4, September 2007)](/assets/SA/BR/lula/publilegal200208.pdf) |
 
 #### Graphics Package
 
 File contents:
-> Marca do governo federal - Ministerios e Secretarias da PR - 04-2011 -1.zip
-> marca-do-governo-federal-portugues-04-2011.zip
+> MarcaCompleta (2003)/MarcaGovernoComplCMYK.eps
+> MarcaCompleta (2003)/MarcaGovernoComplEscCinza.eps
+> MarcaCompleta (2003)/MarcaGovernoComplPantone.eps
+> MarcaCompleta (2003)/MarcaGovernoComplTracoNeg.eps
+> MarcaCompleta (2003)/MarcaGovernoComplTracoPant.eps
+> MarcaCompleta (2003)/MarcaGovernoComplTracoPB.eps
+> MarcaExterior (2005)/alemao.zip (each archive in this dir contains a localized .ai, .cdr, and .eps file)
+> MarcaExterior (2005)/arabe.zip
+> MarcaExterior (2005)/espanhol.zip
+> MarcaExterior (2005)/frances.zip
+> MarcaExterior (2005)/ingles.zip
+> MarcaExterior (2005)/italiano.zip
+> MarcaExterior (2005)/japones.zip
+> MarcaExterior (2005)/mandarim.zip
+> MarcaExterior (2005)/russo.zip
+> MarcaNovaCompleta (2005)/MarcaGovernoComplCMYKNOVA.eps (.ai)
+> MarcaNovaCompleta (2005)/MarcaGovernoComplEscCinzaNOVA.eps (.ai)
+> MarcaNovaCompleta (2005)/MarcaGovernoComplPantoneNOVA.eps (.ai)
+> MarcaNovaCompleta (2005)/MarcaGovernoComplTracoNegNOVA.eps (.ai)
+> MarcaNovaCompleta (2005)/MarcaGovernoComplTracoPantNOVA.eps (.ai)
+> MarcaNovaCompleta (2005)/MarcaGovernoComplTracoPBNOVA.eps (.ai)
+> MarcaSimplificada (2003)/MarcaGovernoSimpleCMYK.eps
+> MarcaSimplificada (2003)/MarcaGovernoSimpleEscCinza.eps
+> MarcaSimplificada (2003)/MarcaGovernoSimplePantone.eps
+> MarcaSimplificada (2003)/MarcaGovernoSimpleTracoNeg.eps
+> MarcaSimplificada (2003)/MarcaGovernoSimpleTracoPant.eps
+> MarcaSimplificada (2003)/MarcaGovernoSimpleTracoPB.eps
 
 | Type | Link |
 | :---: | :--- |
-| .7z | [Download](/assets/SA/BR/dilma/BR_DILMA.7z) |
+| .7z | [Download](/assets/SA/BR/lula/BR_LULA.7z) |
 
 ## Navigation
 
