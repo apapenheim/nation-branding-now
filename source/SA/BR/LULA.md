@@ -16,7 +16,7 @@ title: Brasil – Um País de Todos
 
 **Years in use:** 2003-2011
 
-**Remarks:** This is the visual identifier used during the Lula da Silva government. Designed by Duda Mendonça for SECOM, it was released 8 April 2003. A grand rainbow of cheerful colours hit upon every element of a wide "Brasil" wordmark featuring a hand-drawn rhombus and stardust-covered disc (evocative of the Brazilian flag) in lieu of a counter on the A. The mark comes in "simplified" and "complete" variants, with the simplification (absence of a govermental identifier strapline) being deprecated in 2005. Also in 2005, the strapline itself changed from small, right-aligned text to a centred and larger construction. The slogan, *Um País de Todos* ("A Country for Everyone"), is inlaid into a yellow band running directly beneath the technicolour wordmark. The following administration, headed by fellow partisan Dilma Rousseff, adopted [a quite similar wordmark](DILMA.html).
+**Remarks:** This is the visual identifier used during the Lula da Silva government. Designed by Duda Mendonça for SECOM, it was approved by Lula on 3 April 2003 and released 8 April 2003. A grand rainbow of cheerful colours hit upon every element of a wide "Brasil" wordmark featuring a hand-drawn rhombus and stardust-covered disc (evocative of the Brazilian flag) in lieu of a counter on the A. The mark comes in "simplified" and "complete" variants, with the simplification (absence of a govermental identifier strapline) being deprecated in 2005. Also in 2005, the strapline itself changed from small, right-aligned text to a centred and larger construction. The slogan, *Um País de Todos* ("A Country for Everyone"), is inlaid into a yellow band running directly beneath the technicolour wordmark. The following administration, headed by fellow partisan Dilma Rousseff, adopted [a quite similar wordmark](DILMA.html).
 
 ## Documentation
 
@@ -76,6 +76,42 @@ File contents:
 | Type | Link |
 | :---: | :--- |
 | .7z | [Download](/assets/SA/BR/lula/BR_LULA.7z) |
+
+#### Laws and Norms
+**Title:** Instrução Normativa Nº 31, de 10 de Septembro de 2003
+**Publication:** Diário Oficial da União
+**Date:** 11 September 2003 **Number:** 176 **Section:** 1 **Pages:** 3–4
+
+| Type | Link |
+| :---: | :--- |
+| .pdf | [Download](/assets/SA/BR/lula/20030911_34.pdf) |
+
+**Title:** Instrução Normativa Nº 2, de 16 de Dezembro de 2009
+**Publication:** Diário Oficial da União
+**Date:** 17 December 2009 **Number:** 241 **Section:** 1 **Pages:** 16–17
+
+| Type | Link |
+| :---: | :--- |
+| .pdf | [Download](/assets/SA/BR/lula/20091217_1617.pdf) |
+
+#### News Articles
+**Title:** Psicodelia Governamental
+**Author:** Carlos Merigo
+**Date:** 5 April 2003 **Outlet:** Brainstorm 9
+**Remarks:** Brainstorm 9 is a Brazilian advertising blog. This source is significant as it – although the images are long-broken and irretreivable from the *Blogger* site on the Internet Archive – significantly predates the press release announcing Lula's visual identity. Further, it provides a date that Duda Mendonça's project got Lula's final approval and suggests that the logomark and slogan were a *donation* from the marketer in question.
+
+| Type | Link |
+| :---: | :--- |
+| Off-site Article | [Visit](https://www.b9.com.br/1203/psicodelia-governamental/) |
+
+#### Press Release
+**Title:** Secom apresenta nova marca do governo federal
+**Author:** Agência Brasil (Brasília, DF)
+**Date:** 8 April 2003
+
+| Type | Link |
+| :---: | :--- |
+| .pdf | [Download](/assets/SA/BR/lula/agenciabrasil_2003.pdf) |
 
 ## Navigation
 
