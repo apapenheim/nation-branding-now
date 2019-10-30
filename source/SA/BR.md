@@ -12,6 +12,8 @@ title: Brazil
 | :---: | :------- | :-----------:| :---: |
 | <img src="/assets/SA/BR/PATRIA_thumb.png" class="record-thumb"> | [Pátria Amada](BR/PATRIA.html) | **2019–2022** | <img src="../../../images/cat_flags/01.png" class="catflag" title="Government Brand"> <img src="../../../images/cat_flags/03.png" class="catflag" title="Political"> |
 | <img src="/assets/SA/BR/ORDEM_thumb.png" class="record-thumb"> | [Ordem e Progresso](BR/ORDEM.html) | 2016–2018 | <img src="../../../images/cat_flags/01.png" class="catflag" title="Government Brand"> <img src="../../../images/cat_flags/03.png" class="catflag" title="Political"> |
+| <img src="/assets/SA/BR/DILMA2_thumb.png" class="record-thumb"> | [Pátria Educadora](BR/DILMA2.html) | 2015–2016 | <img src="../../../images/cat_flags/01.png" class="catflag" title="Government Brand"> <img src="../../../images/cat_flags/03.png" class="catflag" title="Political"> |
+| <img src="/assets/SA/BR/DILMA_thumb.png" class="record-thumb"> | [País Rico é País sem Pobreza](BR/DILMA.html) | 2011–2014 | <img src="../../../images/cat_flags/01.png" class="catflag" title="Government Brand"> <img src="../../../images/cat_flags/03.png" class="catflag" title="Political"> |
 
 ## Subordinate Collections
 

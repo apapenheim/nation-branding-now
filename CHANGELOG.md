@@ -2,6 +2,18 @@
 
 The Changelog tracks content changes to the *NBN* project. We try to provide a written description of what is new on the night following any revisions.
 
+## v1.0.4 – 30 October 2019
+
+**Added:**
+
+- Brazilian federal government 2016-2018 visual identity, previously a mis-labelled draft on the wrong page, is now live.
+- Pages for the visual identity of the first and second Dilma mandates started.
+
+**Changed:**
+
+- Some resources served through a deprecated CDN have been migrated into LFS on BR 2019-2022.
+- Donor change jar added to the footer. If this project is your kind of thing, why not chip in? :-)
+
 ## v1.0.3 – 26 August 2019
 
 **Added:**
