@@ -8,6 +8,7 @@ The Changelog tracks content changes to the *NBN* project. We try to provide a w
 
 - Brazilian federal government 2016-2018 visual identity, previously a mis-labelled draft on the wrong page, is now live.
 - Pages for the visual identity of the first and second Dilma mandates started.
+- Stub article for the Lula (2003-2011) government.
 
 **Changed:**
 

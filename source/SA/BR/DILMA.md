@@ -16,7 +16,7 @@ title: País Rico é País sem Pobreza – Brasil
 
 **Years in use:** 2011-2014
 
-**Remarks:** This is the visual identifier used during the first mandate of the Dilma Rousseff government. Designed by SECOM, it was released 10 February 2011. A stylized "Brasil" in bold, green, rounded text is set against a yellow field, with the counter of the A defaced by a yellow rhombus and star field recalling the Brazilian flag. Stacked above and below are governmental identifiers and slogan – *País Rico é País sem Pobreza* ("A Rich Country is a Country without Poverty") – in a Gotham-like typeface. From 1 January 2015, in Rousseff's second term, the graphic was deprecated in favour of [this updated wordmark](DILMA2.html).
+**Remarks:** This is the visual identifier used during the first mandate of the Dilma Rousseff government, and is not too dissimilar from [the work of the preceding government](LULA.html). Designed by Marcelo Kertész for SECOM, it was released 10 February 2011. A stylized "Brasil" in bold, green, rounded text is set against a yellow field, with the counter of the A defaced by a rhombus and blue disc recalling the Brazilian flag. Stacked above and below are governmental identifiers and slogan – *País Rico é País sem Pobreza* ("A Rich Country is a Country without Poverty") – in a Gotham-like typeface. From 1 January 2015, in Rousseff's second term, the graphic was deprecated in favour of [this updated wordmark](DILMA2.html).
 
 ## Documentation
 
