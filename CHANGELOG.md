@@ -2,6 +2,15 @@
 
 The Changelog tracks content changes to the *NBN* project. We try to provide a written description of what is new on the night following any revisions.
 
+## v1.0.5 – 31 October 2019
+
+Happy Halloween! 🎃 This extra spooky release of *NBN* continues to build our catalogue of visual assets branding the Brazilian state by dusting off the 🕸 cobwebs 🕸 on some very old releases.
+
+**Added:**
+
+- A stub article for the visual identifier of the early Cardoso government (95-96).
+- A ghost to the changelog. Boo! 👻
+
 ## v1.0.4 – 30 October 2019
 
 **Added:**
