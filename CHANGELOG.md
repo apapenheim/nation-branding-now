@@ -9,6 +9,7 @@ Happy Halloween! 🎃 This extra spooky release of *NBN* continues to build our 
 **Added:**
 
 - A stub article for the visual identifier of the early Cardoso government (95-96).
+- Full legal citations for the late-first-term branding of the Cardoso government (97-98).
 - A ghost to the changelog. Boo! 👻
 
 ## v1.0.4 – 30 October 2019
