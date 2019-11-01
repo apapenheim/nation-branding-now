@@ -1,6 +1,12 @@
 # Changelog
 
-The Changelog tracks content changes to the *NBN* project. We try to provide a written description of what is new on the night following any revisions.
+The Changelog tracks content changes to the *NBN* project. We try to provide a written description of what is new by the night following any revisions. Check back often, we are on a nightly build schedule!
+
+## v1.0.6 – 1 November 2019
+
+**Changed:**
+
+- Whew, 18 lockups constructed and a mountain of gazette citations later, a starter entry. The FHC 99–02 article is now fleshed out a bit, to the point where I feel it beneficial to get *something* online. Maybe a scholarly source or two and some newspaper clippings and this one will be servicible. 
 
 ## v1.0.5 – 31 October 2019
 
@@ -10,7 +16,12 @@ Happy Halloween! 🎃 This extra spooky release of *NBN* continues to build our 
 
 - A stub article for the visual identifier of the early Cardoso government (95-96).
 - Full legal citations for the late-first-term branding of the Cardoso government (97-98).
+- The beginnings of an article on the second-term Cardoso identifier(99-02). Definitely needs more work, but this closes the gap! *NBN* now has complete federal coverage for Brazil from 1995 to present.
 - A ghost to the changelog. Boo! 👻
+
+**Changed:**
+
+- Light orthographic modifications to the footer.
 
 ## v1.0.4 – 30 October 2019
 

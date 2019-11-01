@@ -24,7 +24,7 @@ theme_config:
   google_analytics: UA-145856346-1
   support:
     link_url: 'TK'
-    text: 'Content on NationBrandingNow is non-exhaustive and compiled using best-available public information. Nothing on this page should be taken as an endorsement of or affiliation with any government. NBN does not own and does not imply to own the visual assets described. Be aware that protected marks may have stringent <a href="/guide/use.html">use restrictions</a>.<br><br>Did we help you out today? Consider <a href="https://donorbox.org/nationbrandingnow">supporting the NBN project</a> to keep this resource free for everyone.<br><br>If you have a comment or question about what you saw today, please'
+    text: 'Content on NationBrandingNow is non-exhaustive and compiled using best-available public information. Nothing on this page should be taken as an endorsement of or affiliation with any government. NBN does not own and does not imply to own the visual assets described. Be aware that protected marks may have stringent <a href="/guide/use.html">use restrictions</a>.<br><br>Did we help you out today? Consider <a href="https://donorbox.org/nationbrandingnow">supporting the NBN project</a> to keep this resource free for everyone.<br><br>If you have a comment or question about what you saw, please'
     link_text: 'contact the editorial team.'
     navigation: false
     navigation_label: 'SUPPORT'
