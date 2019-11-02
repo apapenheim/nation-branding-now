@@ -23,7 +23,7 @@ The marketing campaigns surrounding it were controversial. The governmental bran
 
 As with every other identifier used during the Cardoso years, "Brasil" is in Futura. (Not coincidentally, his political party – the PSDB – also identifies itself with a Futura wordmark.) All other text in the construction, including slogan *8 anos Construindo o Futuro* ("8 Years Building the Future"), is set in Times. The mark was ultimately discontinued on 31 December 2002.
 
-In part as a consequence of the contentiousness of this brand, a depoliticized logotype was developed for public service announcements. This mark, consisting of the Brazilian flag, a horizontal rule, and the name of the relevant ministry in a neutral, neo-grotesque typeface (Univers), sought to rememdy legal questions surrounding the politicization of federal government communications through political visual language. This particular logo has a life extending beyond that of the *8 anos* campaign and into the [Lula government which followed](LULA.html).
+In part as a consequence of the contentiousness of this brand, a depoliticized logotype was developed for public service announcements. This mark, consisting of the Brazilian flag, a horizontal rule, and the name of the relevant ministry in a neutral, neo-grotesque typeface (Univers), sought to rememdy legal questions surrounding the politicization of federal government communications through visual language. This particular logo has a life extending beyond that of the *8 anos* campaign and into the [Lula government which followed](LULA.html).
 
 The time period in which this branding campaign was active was short, indeed. Nonetheless, an understanding of it is essential to grasping the norms surrounding contemporary Brazilian governmental publicity.
 
@@ -152,7 +152,7 @@ File contents:
 **Title:** TCU multa ex-diretores da Petrobras
 **Outlet:** O Estadao de S. Paulo
 **Date:** 3 November 2003
-**Remarks:** Reporting of fines handed down to Petrobras executives for improper participating in the *8 anos* publicity campaign.
+**Remarks:** Reporting of fines handed down to Petrobras executives for improper participation in the *8 anos* publicity campaign.
 
 | Type | Link |
 | :---: | :--- |
