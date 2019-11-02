@@ -17,7 +17,7 @@ title: Trabalhando em todo o Brasil
 
 **Years in use:** 1999-2002
 
-**Remarks:** This is the visual identifier used for *most* of the second term of the Cardoso government. When a lay person refers to the Cardoso government's logo, they most often mean this mark. Stacked, bold Futura in blue is bookended by stripes in green and white. The core of the wordmark was introduced in April 1999, though use was further expanded in law thereafter.
+**Remarks:** This is the visual identifier used for *most* of the second term of the Cardoso government. When a lay person refers to the Cardoso government's logo, they most often mean this mark. Stacked, bold Futura in blue is bookended by stripes in green and yellow. The core of the wordmark was introduced in April 1999, though use was further expanded in law thereafter.
 
 From July 1999, the [*É Tempo de Brasil*](ACAO.html) logo used on communications intended for foreign audiences was discontinued, with whatever localized flavour of "Brazilian Government" is necessary inserted into the 1999 wordmark and used in its place. There appear to be English, French, German, Italian, and Spanish versions of this wordmark, though the list is not exhaustive.
 
@@ -66,10 +66,10 @@ File contents:
 > marcagov-slogan-escuro-pantone.eps
 > marcagov-slogan-escuro-pb.eps
 > exterior/marcagov-alemao.eps
-> exterior/marcagov-alemao.eps
-> exterior/marcagov-alemao.eps
-> exterior/marcagov-alemao.eps
-> exterior/marcagov-alemao.eps
+> exterior/marcagov-espanhol.eps
+> exterior/marcagov-frances.eps
+> exterior/marcagov-ingles.eps
+> exterior/marcagov-italiano.eps
 
 **Remarks:** The promotional signature for the economic programme, *Avança Brasil*, is a very nifty logotype. Being a work of 3D computer graphics – full of lights, shadows, transparencies, and textures – it is also not a symbol which takes well to vectorization, and the working files building this symbol did not survive the ravages of time. A *rough* trace of the flat, CMYK version described in the graphic standards is attached, though the raster will unfortunately have to be taken as the authoritative example. Use the enclosed vector for nominal, descriptive identification, and *not* as a source of authority for the visual language of this programme.
 

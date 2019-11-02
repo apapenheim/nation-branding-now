@@ -2,7 +2,17 @@
 
 The Changelog tracks content changes to the *NBN* project. We try to provide a written description of what is new by the night following any revisions. Check back often, we are on a nightly build schedule!
 
+## v1.0.7 – 2 November 2019
+
+**Changed:**
+
+- The late term Cardoso identity (2002) is a significant one, so I've selected some of the better sources out there illustrating its contentious nature. (Being careful to keep *NBN*'s own description neutral.) The standards manual for the logotype is of atypically poor construction (somewhere, for some reason, it was autotraced – I am thinking this is a PDF production quirk in early versions of Corel??) so I've done some work to produce clean lockups, following the colour rules. Interestingly, their own standards manual does not follow the colour rules... as defined *in the standards manual*. I will be very glad to be putting Brazil, Corel-using nation, behind me. Hopefully the next country is somewhere Illustrator is standard, eh?
+
 ## v1.0.6 – 1 November 2019
+
+**Added:**
+
+- Well, the pronouncement of quarter-century coverage for Brazil may have been a bit premature. I forgot the blip of a governmental brand instituted by Cardoso in 2002 – and that one is a doozy, so today's stub will be a bit more substantial by the next morning.
 
 **Changed:**
 
