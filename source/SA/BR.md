@@ -19,6 +19,8 @@ title: Brazil
 | <img src="/assets/SA/BR/FHC99_thumb.png" class="record-thumb"> | [Trabalhando em todo o Brasil](BR/FHC99.html) | 1999-2002 | <img src="../../../images/cat_flags/01.png" class="catflag" title="Government Brand"> <img src="../../../images/cat_flags/03.png" class="catflag" title="Political"> |
 | <img src="/assets/SA/BR/ACAO_thumb.png" class="record-thumb"> | [Brasil em Ação](BR/ACAO.html) | 1997–1998 | <img src="../../../images/cat_flags/01.png" class="catflag" title="Government Brand"> <img src="../../../images/cat_flags/03.png" class="catflag" title="Political"> |
 | <img src="/assets/SA/BR/FHC95_thumb.png" class="record-thumb"> | [Governo Federal (Early Cardoso)](BR/FHC95.html) | 1995–1996 | <img src="../../../images/cat_flags/01.png" class="catflag" title="Government Brand"> <img src="../../../images/cat_flags/03.png" class="catflag" title="Political"> |
+| <img src="/assets/SA/BR/ITAMAR_thumb.png" class="record-thumb"> | [União de Todos](BR/ITAMAR.html) | 1992–1994 | <img src="../../../images/cat_flags/01.png" class="catflag" title="Government Brand"> <img src="../../../images/cat_flags/03.png" class="catflag" title="Political"> |
+| <img src="/assets/SA/BR/COLLOR_thumb.png" class="record-thumb"> | [Governo do Brasil (Collor)](BR/COLLOR.html) | 1990–1992 | <img src="../../../images/cat_flags/01.png" class="catflag" title="Government Brand"> <img src="../../../images/cat_flags/03.png" class="catflag" title="Political"> |
 
 ## Subordinate Collections
 

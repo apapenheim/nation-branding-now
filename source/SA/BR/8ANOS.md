@@ -78,7 +78,7 @@ File contents:
 **Title:** Instrução Normativa Nº 24, de 6 de Março de 2002
 **Publication:** Diário Oficial da União
 **Date:** 7 March 2002 **Number:** 45 **Section:** 1 **Page:** 3
-**Remarks:** A correction to this norm, which originally carried the incorrect slogan, was published the subsequent day.
+**Remarks:** Legal publication introducing the *8 anos* brand. A correction to this norm, which originally carried the incorrect slogan, was published the subsequent day.
 
 | Type | Link |
 | :---: | :--- |
