@@ -2,7 +2,17 @@
 
 The Changelog tracks content changes to the *NBN* project. We try to provide a written description of what is new by the night following any revisions. Check back often, we are on a nightly build schedule!
 
+## v1.0.8 – 3 November 2019
+
+**Added:**
+
+- An entry for the Collor (90-92) governmental logo. This is pretty much the terminus for well-defined visual identity projects branding the Brazilian state. Prior governments have a slogan or two, as well as set piece ad campaigns, but the documentation becomes perilously thin for an undertaking of this sort. I am fairly comfortable saying that the political/governmental identities for the Brazilian federal government are done?
+
 ## v1.0.7 – 2 November 2019
+
+**Added:**
+
+- An entry for the Itamar Franco (92-94) governmental logo.
 
 **Changed:**
 
