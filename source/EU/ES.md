@@ -26,7 +26,7 @@ Subordinate records for Spain are organized by autonomy.
 | <img src="../images/FlagKit/EU/ES/CM/CM@3x.png" class="flagkit-head"> | [Castilla-La Mancha](ES/CM.html) | <img src="../images/FlagKit/EU/ES/NC/NC@3x.png" class="flagkit-head"> | [Navarra, Comunidad Foral de](ES/NC.html) |
 | <img src="../images/FlagKit/EU/ES/CT/CT@3x.png" class="flagkit-head"> | [Catalunya](ES/CT.html) | <img src="../images/FlagKit/EU/ES/PV/PV@3x.png" class="flagkit-head"> | [País Vasco](ES/PV.html) |
 | <img src="../images/FlagKit/EU/ES/CE/CE@3x.png" class="flagkit-head"> | [Ceuta](ES/CE.html) | <img src="../images/FlagKit/EU/ES/VC/VC@3x.png" class="flagkit-head"> | [Valenciana, Comunidad](ES/VC.html) |
-| <img src="../images/FlagKit/EU/ES/EX/EX@3x.png" class="flagkit-head"> | [Extremadura](ES/EX.html) | | |
+| <img src="../images/FlagKit/EU/ES/EX/EX@3x.png" class="flagkit-head"> | [Extremadura](ES/EX.html) | | | |
 
 ## Navigation
 
