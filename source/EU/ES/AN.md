@@ -4,7 +4,7 @@ title: Andalucía
 
 # Andalucía <img src="/images/FlagKit/EU/ES/AN/AN@3x.png" class="flagkit-head">
 
-This page contains institutional identity assets and visual history from **Andalucía** <img src="/images/FlagKit/EU/ES/AN/AN.png" class="flagkit"> (*en: Andalusia*), a nationality of **Spain**<img src="/images/FlagKit/EU/ES/ES.png" class="flagkit">.
+This page contains institutional identity assets and visual history from **Andalucía** <img src="/images/FlagKit/EU/ES/AN/AN.png" class="flagkit"> (*en: Andalusia*), a nationality of **Spain** <img src="/images/FlagKit/EU/ES/ES.png" class="flagkit">.
 
 ## Records
 
