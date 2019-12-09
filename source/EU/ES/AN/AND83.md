@@ -22,7 +22,7 @@ The symbol eschews the Pillars of Hercules, lions, and bare-chested mythic hero 
 
 Note that application of this symbol was far from unified within the young government. For the entire period of time the symbol was legally in force, there are examples of government publications abrogating the guidelines and opting to represent the administration with the full coat of arms. The arms were typically reproduced alongside an unidentified outline font. Observe: A bicolour, outlined application with a green archway and triband ([1983](/assets/EU/ES/AN/AND83/book1.jpg)); an alternative simplification, in black, removing all text from the coat of arms ([1985](/assets/EU/ES/AN/AND83/book2.jpg)); and an inverse application with the full coat of arms, text included, entirely in white ([1985](/assets/EU/ES/AN/AND83/book3.jpg)).
 
-Observing the systematic deviation from the gazetted symbol, it is little wonder that this simplification, criticized in official documents for eschewing figurative representation (Decreto 126/1985), was quickly replaced with Alberto Corazón's [stylizd coat of arms](AND85.html).
+Observing the systematic deviation from the gazetted symbol, it is little wonder that this simplification, criticized in official documents for eschewing figurative representation (Decreto 126/1985), was quickly replaced with Alberto Corazón's [stylized coat of arms](AND85.html).
 
 ## Documentation
 
@@ -36,10 +36,20 @@ File contents:
 | .7z | [Download](/assets/EU/ES/AN/AND83/junta1983.7z) |
 
 #### Laws and Norms
+**Title:** Ley 3/1982, de 21 de Diciembre, sobre el Himno y el Escudo de Andalucía
+**Publication:** Boletín Oficial de la Junta de Andalucía
+**Date:** 4 January 1983 **Number:** 1 **Pages:** 4–7
+**Remarks:** This law provides the technical specifications for the coat of arms off of which this symbol is based. Additionally, it enumerates and delegates the authority for the *Consejo de Gobierno* to write ordinances regulating "los logotipos de reproducciones simplificadas del escudo de Andalucía para uso oficial."
+
+| Type | Link |
+| :---: | :--- |
+| .pdf | [Download](/assets/EU/ES/AN/AND83/boja_1_4.pdf) |
+| .pdf | [Download (Correction, 1 February 1983)](/assets/EU/ES/AN/AND83/boja_9.pdf) |
+
 **Title:** Decreto 211/1983, de 19 de Octubre, por el que se regula el logotipo de reproducción simplificado del Escudo de Andalucía para uso Oficial
 **Publication:** Boletín Oficial de la Junta de Andalucía
 **Date:** 8 November 1983 **Number:** 89 **Page:** 1288
-**Remarks:** Discontinues the 1983 simplification of the coat-of-arms, which had opted for text instead of heraldic elements, in favour of Corazón's design.
+**Remarks:** Introduces a simplified coat of arms to serve as a governmental logotype. Note that the document neglects to define colours, a standard typography, or very much else, for that matter. As an added bonus, the two ordinances immediately following this one (and included in the same PDF) define colours and offer a construction sheet for the Andalusian flag.
 
 | Type | Link |
 | :---: | :--- |
