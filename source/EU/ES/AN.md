@@ -12,6 +12,7 @@ This page contains institutional identity assets and visual history from **Andal
 | :---: | :------- | :-----------:| :---: |
 | <img src="/assets/EU/ES/AN/AND97_thumb.png" class="record-thumb"> | [Junta de Andalucía ('97)](AN/AND97.html) | **1997–** | <img src="../../../images/cat_flags/01.png" class="catflag" title="Government Brand"> |
 | <img src="/assets/EU/ES/AN/AND85_thumb.png" class="record-thumb"> | [Junta de Andalucía ('85)](AN/AND85.html) | 1985–1997 | <img src="../../../images/cat_flags/01.png" class="catflag" title="Government Brand"> |
+| <img src="/assets/EU/ES/AN/AND83_thumb.png" class="record-thumb"> | [Junta de Andalucía ('83)](AN/AND83.html) | 1983–1985 | <img src="../../../images/cat_flags/01.png" class="catflag" title="Government Brand"> |
 
 ## Navigation
 
@@ -20,4 +21,4 @@ This page contains institutional identity assets and visual history from **Andal
 ---
 
 Page instantiated: 22 November 2019.
-Date of last revision: 8 December 2019.
+Date of last revision: 9 December 2019.

@@ -19,9 +19,9 @@ title: Junta de Andalucía ('97)
 
 **Remarks:** This mark, a severe geometricization of the earlier simplified coat of arms affectionately referred to as *el paraguas* ("the umbrella"), is defined in law as the "generic symbol" of the Andalusian government. Normative instruments continue to permit for use of the prior work, though the scope of application is greatly reduced. Most communications intended for a citizen audience now bear the genericized symbol, while use of the coat of arms, designated the "institutional brand," is narrowly retained for publications of an institutional character (ex. budgets, laws).
 
-Two curved arcs represent an archway, while the remainder of the heraldic composition is reduced to an isoceles triangle. While no designer is identified, the symbol is considered to be in continuity with the simplified coat-of-arms by Alberto Corazón. The typographic treatment of the *Junta* wordmark, the *Alfabeto Andaluz*, is also the work of the aforementioned designer. When the wordmark and symbol are combined, the administration refers to the resultant lockup as the "generic brand." A variant described as an "Autonomous Community Brand," intended for promotional purposes, recolours the isoceles triangle in gold and replaces the custom type of the wordmark with a decidedly off-the-shelf copperplate rendition of `Andalucia` – sans acute – in small capitals.
+Two curved arcs represent an archway, while the remainder of the heraldic composition is reduced to an isoceles triangle. While no designer is identified, the symbol is considered to be in continuity with the simplified coat of arms by Alberto Corazón. The typographic treatment of the *Junta* wordmark, the *Alfabeto Andaluz*, is also the work of the aforementioned designer. When the wordmark and symbol are combined, the administration refers to the resultant lockup as the "generic brand." A variant described as an "Autonomous Community Brand," intended for promotional purposes, recolours the isoceles triangle in gold and replaces the custom type of the wordmark with a decidedly off-the-shelf copperplate rendition of `Andalucia` – sans acute – in small capitals.
 
-Note that beyond any legislated considerations, there is an element of politics governing the use of this symbol by the Andalusian government. The mark was adopted by Regional President Manuel Chaves of the centre-left *PSOE*, and saw continued use in the two *PSOE* governments that followed. Since early 2019, Andalucía has been governed by a coalition of the right-of-centre *Partido Popular* and *Ciudadanos* under Juan Manuel Moreno. The Moreno administration has reverted to Corazón's simplified coat-of-arms, and is widely expected to rebrand the government entirely in 2020.
+Note that beyond any legislated considerations, there is an element of politics governing the use of this symbol by the Andalusian government. The mark was adopted by Regional President Manuel Chaves of the centre-left *PSOE*, and saw continued use in the two *PSOE* governments that followed. Since early 2019, Andalucía has been governed by a coalition of the right-of-centre *Partido Popular* and *Ciudadanos* under Juan Manuel Moreno. The Moreno administration has reverted to Corazón's simplified coat of arms, and is widely expected to rebrand the government entirely in 2020.
 
 ## Documentation
 
@@ -128,7 +128,7 @@ File contents:
 **Title:** Decreto 245/1997, de 15 de octubre, por el que se aprueba el Manual de Diseño Gráfico para su utilización por el Gobierno y Administración de la Junta de Andalucía
 **Publication:** Boletín Oficial de la Junta de Andalucía
 **Date:** 8 November 1997 **Number:** 130 **Page:** 13,187
-**Remarks:** Approves graphic standards to legally succeed the 1985 design manual containing the similified coat-of-arms with the 1997 symbol.
+**Remarks:** Approves graphic standards to legally succeed the 1985 design manual containing the similified coat of arms with the 1997 symbol.
 
 | Type | Link |
 | :---: | :--- |
@@ -171,7 +171,6 @@ File contents:
 **Title:** Decreto 96/2017, de 27 de junio, por el que se regula la coordinación de la estrategia de imagen institucional de la Administración de la Junta de Andalucía
 **Publication:** Boletín Oficial de la Junta de Andalucía
 **Date:** 4 July 2017 **Number:** 126 **Pages:** 13–22
-**Remarks:** Broadens the scope of application for the Andalusian graphic standards and, as the original is a decade old, makes some amendments (notably, replaces the existing tourism-focussed mark).
 
 | Type | Link |
 | :---: | :--- |
