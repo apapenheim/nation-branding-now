@@ -2,6 +2,12 @@
 
 The Changelog tracks content changes to the *NBN* project. We try to provide a written description of what is new by the night following any revisions. Check back often, we are on a nightly build schedule!
 
+## v1.0.9 – 8 December 2019
+
+**Added:**
+
+- Doing some work on the autonomous communities of Spain. I've added an index for Spain and each autonomy, as well as completed the listing for Andalusia's 1997 governmental identifier.
+
 ## v1.0.8 – 3 November 2019
 
 **Added:**
