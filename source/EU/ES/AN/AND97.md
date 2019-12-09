@@ -27,7 +27,7 @@ Note that beyond any legislated considerations, there is an element of politics 
 
 #### Graphic Standards
 
-The earliest example of the *Manual de Identidad Corporativa*, dated 1997, is on legal deposit at [the Biblioteca de Andalucía](http://www.bibliotecasdeandalucia.es/web/biblioteca-de-andalucia). *NBN* does not have a scaned copy of this document, though we have numerous later revisions (dated 2002, 2007, 2011, and 2013) available to browse, with only superficial amendments.
+The earliest example of the *Manual de Identidad Corporativa*, dated 1997, is on legal deposit at [the Biblioteca de Andalucía](http://www.bibliotecasdeandalucia.es/web/biblioteca-de-andalucia). *NBN* does not have a scaned copy of this document, though we have numerous later revisions (dated 2002, 2007, 2011, and 2013) available to browse with only superficial amendments.
 
 **Title:** Manual de Identidad Corporativa
 **Author:** Junta de Andalucía – Consejería de la Presidencia
