@@ -22,7 +22,7 @@ The symbol eschews the Pillars of Hercules, lions, and bare-chested mythic hero 
 
 Note that application of this symbol was far from unified within the young government. For the entire period of time the symbol was legally in force, there are examples of government publications abrogating the guidelines and opting to represent the administration with the full coat of arms. The arms were typically reproduced alongside an unidentified outline font. Observe: A bicolour, outlined application with a green archway and triband ([1983](/assets/EU/ES/AN/AND83/book1.jpg)); an alternative simplification, in black, removing all text from the coat of arms ([1985](/assets/EU/ES/AN/AND83/book2.jpg)); and an inverse application with the full coat of arms, text included, entirely in white ([1985](/assets/EU/ES/AN/AND83/book3.jpg)).
 
-Observing the systematic deviation from the gazetted symbol, it is little wonder that this simplification, criticized in official documents for eschewing figurative representation (Decreto 126/1985), was quickly replaced with Alberto Corazón's [stylized coat of arms](AND85.html).
+In light of the systematic deviation from the gazetted symbol, it is little wonder that this simplification, criticized in official documents for eschewing figurative representation (Decreto 126/1985), was quickly replaced with Alberto Corazón's [stylized coat of arms](AND85.html).
 
 ## Documentation
 
