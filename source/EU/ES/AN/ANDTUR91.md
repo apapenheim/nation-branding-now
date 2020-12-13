@@ -25,7 +25,7 @@ title: Andalucía, sólo hay una
 **Title:** Manual de Identidad Corporativa (Section 1.3.2)
 **Author:** Junta de Andalucía – Consejería de la Presidencia
 **Date:** 6 July 2004
-**Remarks:** This excerpt from [the governmental visual identity at the time](AND97.html) is by no means a comprehensive set of graphic standards for the tourism mark. It does, nonetheless, define colour values and delineate clearspace.
+**Remarks:** This excerpt from [the governmental visual identity manual](AND97.html) is by no means a comprehensive set of graphic standards for the tourism mark. It does, nevertheless, define colour values and delineate clearspace.
 
 | Type | Link |
 | :---: | :--- |
@@ -58,7 +58,7 @@ File contents:
 **Client:** Turismo Andaluz S.A. (Sevilla, Andalucía)
 **Agency:** Bassat, Ogilvy & Mather
 **Date:** 1998
-**Remarks:** Clever rotating camera work in a 60s spot by Ogilvy. [Also available with an English voiceover.](https://youtu.be/ppDEFy8hHtA)
+**Remarks:** Clever flip-effect camera work in a 60s spot by Ogilvy. [Also available with an English voiceover.](https://youtu.be/ppDEFy8hHtA)
 
 *NBN* has a larger archive of adverts associated with various campaigns run under this brand than can be displayed comfortably on-screen. Follow these links to watch more:
 

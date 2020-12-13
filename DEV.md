@@ -33,4 +33,4 @@ We now need to push these changes to github.
 - Run `git push origin master` to push to Github
 
 
-Back in `nation-branding-now`, run `npm-install` to reinstall the dependency. Restart the serve rwith 
+Back in `nation-branding-now`, run `npm-install` to reinstall the dependency. Restart the server with 

@@ -16,7 +16,7 @@ title: Andalucía te quiere
 
 **Years in use:** 2006–
 
-**Remarks:** The 2006 tourism promotion brand developed for the Andalusian administration by DEC BBDO. The mark was designed in 2005 and released 23 March 2006. "Andalucía" is rendered in dramatic, sweeping brush strokes and coloured with a brilliant, polychromatic gradient. The creative direction, noting the diversity of values embodied in Andalusia as a destination, realized that *one* mere *six-colour gradient* would not adequately convey the desired effect. Thus, there are five different gradients, corresponding with emotions ranging from "natural" to "crepuscular," and using anywhere between three and six colours each. 
+**Remarks:** This is the 2006 tourism promotion brand developed for the Andalusian administration by DEC BBDO. The mark was designed in 2005 and released 23 March 2006. "Andalucía" is rendered in dramatic, sweeping brush strokes and coloured with a brilliant, polychromatic gradient. The creative direction, noting the diversity of values and emotions embodied in Andalusia as a destination, realized that *one* mere *six-colour gradient* would not adequately convey the desired effect. Thus, there are five different gradients, defined as corresponding with qualities ranging from "natural" to "crepuscular," and using anywhere between three and six colours each. 
 
 The primary campaign associated with this brand from 2006 to 2014 sees it bearing the strapline *Te quiere* ("Andalusia loves you"). From 2014 to 2016, the mark retains the *Te quiere* strapline, but promotional copy centres around the theme of *Tú mejor tú* ("Your best you"). The active campaign at pixel, running since 2017, is *Andalucía intensamente*. Each campaign is the work of DEC BBDO.
 

@@ -16,7 +16,7 @@ title: Canada
 | Flag | Region | Flag | Region |
 | :---: | :---: | :---: | :---: |
 | <img src="../images/FlagKit/NA/CA/AB/AB@3x.png" class="flagkit-head"> | Alberta | <img src="../images/FlagKit/NA/CA/NU/NU@3x.png" class="flagkit-head"> | Nunavut |
-| <img src="../images/FlagKit/NA/CA/BC/BC@3x.png" class="flagkit-head"> | British Columbia | <img src="../images/FlagKit/NA/CA/ON/ON@3x.png" class="flagkit-head"> | Ontario |
+| <img src="../images/FlagKit/NA/CA/BC/BC@3x.png" class="flagkit-head"> | British Columbia | <img src="../images/FlagKit/NA/CA/ON/ON@3x.png" class="flagkit-head"> | [Ontario](CA/ON.html) |
 | <img src="../images/FlagKit/NA/CA/MB/MB@3x.png" class="flagkit-head"> | Manitoba | <img src="../images/FlagKit/NA/CA/PE/PE@3x.png" class="flagkit-head"> | Prince Edward Island |
 | <img src="../images/FlagKit/NA/CA/NB/NB@3x.png" class="flagkit-head"> | New Brunswick | <img src="../images/FlagKit/NA/CA/QC/QC@3x.png" class="flagkit-head"> | [Québec](CA/QC.html) |
 | <img src="../images/FlagKit/NA/CA/NL/NL@3x.png" class="flagkit-head"> | Newfoundland and Labrador | <img src="../images/FlagKit/NA/CA/SK/SK@3x.png" class="flagkit-head"> | Saskatchewan |

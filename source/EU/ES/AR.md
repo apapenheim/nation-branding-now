@@ -10,6 +10,7 @@ This page contains institutional identity assets and visual history from **Arag√
 
 | Image | Identity | Years Active | Tags ([?](/guide/flags.html#Flags-Aiding-in-Classification)) |
 | :---: | :------- | :-----------:| :---: |
+| <img src="/assets/EU/ES/AR/ARATUR17_thumb.png" class="record-thumb"> | [Arag√≥n ‚Äì En tierra de dragones](AR/ARATUR17.html) | **2017‚Äì** | <img src="../../../images/cat_flags/02.png" class="catflag" title="Tourism Brand"> |
 
 ## Navigation
 
@@ -17,5 +18,5 @@ This page contains institutional identity assets and visual history from **Arag√
 
 ---
 
-Page instantiated: 22 November 2019.
-Date of last revision: 22 November 2019.
+Page instantiated: 10 December 2019.
+Date of last revision: 10 December 2019.
